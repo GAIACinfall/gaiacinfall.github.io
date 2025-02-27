@@ -39,5 +39,6 @@ AND let's goooo
       - Model: A model is more like a **mathematical** construct. It explains how you could reach B from A by using some formula to depict this process. *It tells us what we can achieve.*  
       - Algorithm: An algorithm is about how to **realize** the things raised by a model by manipulating the computer, doing some matrix transformation, etc.  
   - Three cutting-edge techniques in biology: **Robot, Nanotech, and Genetics**  
-  - Big-data-driven perspective: Think about what could **be revealed from the data** and the biological questions that could come from data, not only from your brain.  
+  - Big-data-driven perspective: Think about what could **be revealed from the data** and the biological questions that could come from data, not only from your brain.
+
 </details>
