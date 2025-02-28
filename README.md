@@ -4,9 +4,6 @@ AND let's goooo
 
 ---
 ## Expectation for myself in the course
-<details>
-  <summary> Details </summary>
-
   
   1. Coding skills  
      - Command of basic coding skills based on **linux and python.**  
@@ -20,7 +17,6 @@ AND let's goooo
      - Learn how to think from a ***big-data driven aspect*** when facing biological problems.
 
 
-</details> 
 
 ---
 ## 1st class-2025/2/21: introduction to bioinfo 
@@ -28,8 +24,7 @@ AND let's goooo
 - [x] homework 1.1
 - [ ] homework 1.2
 - [ ] review and preview
-<details>
-  <summary>Details</summary>
+
   
   - All about course: what am I supposed to do  
     **Grading**: attendance, homeworks, and presentation  
@@ -43,4 +38,3 @@ AND let's goooo
   - Three cutting-edge techniques in biology: **Robot, Nanotech, and Genetics**  
   - Big-data-driven perspective: Think about what could **be revealed from the data** and the biological questions that could come from data, not only from your brain.
 
-</details>
