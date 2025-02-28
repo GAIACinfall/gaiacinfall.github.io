@@ -6,17 +6,19 @@ AND let's goooo
 ## Expectation for myself in the course
 <details>
   <summary> Details </summary>
+
   
-  #### 1. Coding skills  
+  1. Coding skills  
      - Command of basic coding skills based on **linux and python.**  
      - Be able to realize some algorithm. \* *e.g. Smith-waterman*
     
-  #### 2. Data processing   
+  2. Data processing   
      - Be able to use tools learnt from class for data processing im my own reaserch.   
      - Customizing some toolboxs for my own usage. \* *just make some small changes*
        
-  #### 3. Bioinfomatics perspective   
+  3. Bioinfomatics perspective   
      - Learn how to think from a ***big-data driven aspect*** when facing biological problems.
+
 
 </details> 
 
