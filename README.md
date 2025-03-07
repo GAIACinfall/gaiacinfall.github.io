@@ -22,8 +22,8 @@ AND let's goooo
 ## 1st class-2025/2/21: introduction to bioinfo 
 - [x] class note
 - [x] homework 1.1
-- [ ] homework 1.2
-- [ ] review and preview
+- [x] homework 1.2
+- [x] review and preview
 
   
   - All about course: what am I supposed to do  
@@ -37,4 +37,11 @@ AND let's goooo
       - Algorithm: An algorithm is about how to **realize** the things raised by a model by manipulating the computer, doing some matrix transformation, etc.  
   - Three cutting-edge techniques in biology: **Robot, Nanotech, and Genetics**  
   - Big-data-driven perspective: Think about what could **be revealed from the data** and the biological questions that could come from data, not only from your brain.
+     
+---
+## 3rd class-blast
 
+   - Score matrix
+     - what about the difference between assemtry/un matrix when do the scoring?
+   - Needlman-Wunsch: **dynamic programming**
+     - recursive algorythm use dynamic programming
